@@ -1,0 +1,28 @@
+{
+  "source": "Yahoo Finance through yfinance, auto_adjust=True, daily Close",
+  "download_date_new_york": "2026-11-07",
+  "end_exclusive": "2026-11-07",
+  "snapshots": {
+    "spy_ivv": {
+      "file": "spy_ivv.csv",
+      "sha256": "fc6657625c9c5474cbe8d34d09d80b85ddb8c33bd9e0559c6d0572437853734b",
+      "first_date": "2021-11-08",
+      "last_date": "2026-11-06",
+      "aligned_rows": 1255
+    },
+    "gld_iau": {
+      "file": "gld_iau.csv",
+      "sha256": "5572c52820b473ccfbd6cca94df0104fb08ae17259077665ab3c5fe6af75ba29",
+      "first_date": "2021-11-08",
+      "last_date": "2026-11-06",
+      "aligned_rows": 1255
+    },
+    "ko_pep": {
+      "file": "ko_pep.csv",
+      "sha256": "882a31efc0b18b87df65f835e0b3b50dad3344ab78ab72a041c35adaaef93f07",
+      "first_date": "2021-11-08",
+      "last_date": "2026-11-06",
+      "aligned_rows": 1255
+    }
+  }
+}
