@@ -1,5 +1,13 @@
 # Statistical Arbitrage: Mean-Reversion Pairs Trading Backtester
 
+## Live Interactive Dashboard
+
+Explore the statistical arbitrage research platform,
+evaluate stock pairs, visualize mean-reversion signals,
+and analyze historical trading performance.
+
+[Launch Interactive Dashboard]((https://pairs-lab-research.streamlit.app))
+
 A runnable Python research project with a Streamlit dashboard, training-only
 statistical estimates, a held-out backtest, and an explicit two-leg cash ledger.
 Built for explaining a research process, including an unsuccessful hypothesis.
